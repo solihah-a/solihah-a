@@ -1,6 +1,6 @@
 ## 😄 Hi there!
 
-I am a Sophomore majoring in Computer Science at Clarkson University with a strong foundation in programming and problem-solving. I enjoy applying my technical skills to real-world problems and continuously expanding my knowledge in new areas.
+I am a Junior majoring in Computer Science at Clarkson University with a strong foundation in programming and problem-solving. I enjoy applying my technical skills to real-world problems and continuously expanding my knowledge in new areas.
 
 I’m currently preparing for career opportunities in IT/CyberSecurity.
 
